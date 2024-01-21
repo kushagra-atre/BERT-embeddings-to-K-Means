@@ -1,0 +1,6 @@
+openai
+transformers
+huggingface
+torch
+datasets
+tensorflow
